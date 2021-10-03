@@ -13,7 +13,7 @@ public:
     virtual ~Rectangle();
 
 private:
-    Point point_a, point_b, point_c, point_d; //первая вершина - левая нижняя, далее - по часовой стрелке
+    Point point_a, point_b, point_c, point_d; //  a - low left
 };
 
 #endif // RECTANGLE_H
