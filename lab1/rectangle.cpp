@@ -1,42 +1,48 @@
 #include "rectangle.h"
 
-Rectangle::Rectangle(std::istream& is) {
-    std::cout << "Enter the rectangle's vertexes:" << std::endl;
-    is >> point_a;
-    is >> point_b;
-    is >> point_c;
-    is >> point_d;
-    std::cout << "The rectangle is created" << std::endl;
+Rectangle::Rectangle() : point_a(0.0, 0.0), point_b(0.0, 0.0), point_c(0.0, 0.0), point_d(0.0, 0.0) {
+	std::cout << "Default rectangle is created" << std::endl;
 }
 
-void Rectangle::Print(std::ostream& os) {
-    std::cout << "Rectangle: ";
-    std::cout << point_a << ", ";
-    std::cout << point_b << ", ";
-    std::cout << point_c << ", ";
-    std::cout << point_d << std::endl;
+Rectangle::Rectangle(Point a, Point b, Point c, Point d) : point_a(a), point_b(b), point_c(c), point_d(d) {
+	std::cout << "Rectangle is created with vertices: ";
+	std::cout << point_a << ", ";
+	std::cout << point_b << ", ";
+	std::cout << point_c << ", ";
+	std::cout << point_d << std::endl;
+}
+
+Rectangle::Rectangle(std::istream& is) {
+	is >> point_a >> point_b >> point_c >> point_d;
+}
+
+Rectangle::Rectangle(const Rectangle& other) : Rectangle(other.point_a, other.point_b, other.point_c, other.point_d) {
+	std::cout << "Rectangle's copy is created" << std::endl;
 }
 
 size_t Rectangle::VertexesNumber() {
-    size_t number = 4;
-    return number;
+	int vert_num = 4;
+	return vert_num;
 }
 
 double Rectangle::Area() {
-    try {
-        double len_a = point_b.dist(point_a);
-        double len_b = point_c.dist(point_b);
-        if (len_a < 0 || len_b < 0) {
-            throw "The length of the side is < 0";
-        }
-        return len_a * len_b;
-    }
-    catch (const char* exception) {
-        std::cerr << "Error: " << exception << std::endl;
-    }
+	double side_a = 0.0;
+	double side_b = 0.0;
+	double fig_square = 0.0;
+	side_a = point_b.dist(point_a);
+	side_b = point_c.dist(point_b);
+	fig_square = side_a * side_b;
+	return fig_square;
+}
 
+void Rectangle::Print(std::ostream& os) {
+	os << "Rectangle: ";
+	os << point_a << " ";
+	os << point_b << " ";
+	os << point_c << " ";
+	os << point_d << std::endl;
 }
 
 Rectangle::~Rectangle() {
-    std::cout << "The rectangle is deleted" << std::endl;
+	std::cout << "Rectangle is deleted" << std::endl;
 }
