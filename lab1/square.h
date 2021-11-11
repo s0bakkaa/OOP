@@ -7,19 +7,19 @@
 
 class Square : public Figure {
 public:
-	Square(); // конструктор по умолчанию
-	Square(Point a, Point b, Point c, Point d); // конструктор, принимающий координаты вершин
-	Square(std::istream& is); // конструктор, принимающий координаты вершин из стандартного потока ввода
-	Square(const Square& other); // создание копии объекта
+	Square();
+	Square(Point a, Point b, Point c, Point d);
+	Square(std::istream& is);
+	Square(const Square& other);
 
-	size_t VertexesNumber(); // число вершин
+	size_t VertexesNumber();
 	double Area(); // площадь
-	void Print(std::ostream& os); // печать типа фигуры и координат вершин
+	void Print(std::ostream& os);
 
 	virtual ~Square();
 
 private:
-	Point point_a; // левый нижний угол, далее - по часовой стрелке
+	Point point_a; // lower left corner, then clockwise
 	Point point_b;
 	Point point_c;
 	Point point_d;
