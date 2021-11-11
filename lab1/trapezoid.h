@@ -1,19 +1,28 @@
 #ifndef TRAPEZOID_H
 #define TRAPEZOID_H
 
+#include <iostream>
+
 #include "figure.h"
 
-class Trapezoid : public Figure{
+class Trapezoid : public Figure {
 public:
-    Trapezoid(std::istream& is);
+	Trapezoid();
+	Trapezoid(Point a, Point b, Point c, Point d);
+	Trapezoid(std::istream& is);
+	Trapezoid(const Trapezoid& other);
 
-    size_t VertexesNumber();
-    double Area();
-    void Print(std::ostream& os);
-    virtual ~Trapezoid();
+	size_t VertexesNumber();
+	double Area(); // РїР»РѕС‰Р°РґСЊ
+	void Print(std::ostream& os);
+
+	virtual ~Trapezoid();
 
 private:
-    Point point_a, point_b, point_c, point_d; //первая вершина - левая нижняя, далее - по часовой стрелке
+	Point point_a; // lower left corner, then clockwise
+	Point point_b;
+	Point point_c;
+	Point point_d;
 };
 
 #endif // TRAPEZOID_H
