@@ -1,19 +1,28 @@
 #ifndef SQUARE_H
 #define SQUARE_H
 
+#include <iostream>
+
 #include "figure.h"
 
 class Square : public Figure {
 public:
-    Square(std::istream& is);
+	Square(); // конструктор по умолчанию
+	Square(Point a, Point b, Point c, Point d); // конструктор, принимающий координаты вершин
+	Square(std::istream& is); // конструктор, принимающий координаты вершин из стандартного потока ввода
+	Square(const Square& other); // создание копии объекта
 
-    size_t VertexesNumber();
-    double Area();
-    void Print(std::ostream& os);
-    virtual ~Square();
+	size_t VertexesNumber(); // число вершин
+	double Area(); // площадь
+	void Print(std::ostream& os); // печать типа фигуры и координат вершин
+
+	virtual ~Square();
 
 private:
-    Point point_a, point_b, point_c, point_d; //������ ������� - ����� ������, ����� - �� ������� �������
+	Point point_a; // левый нижний угол, далее - по часовой стрелке
+	Point point_b;
+	Point point_c;
+	Point point_d;
 };
 
 #endif // SQUARE_H
