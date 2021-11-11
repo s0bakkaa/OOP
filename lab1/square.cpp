@@ -1,40 +1,46 @@
 #include "square.h"
 
-Square::Square(std::istream& is) {
-    std::cout << "Enter the square's vertexes:" << std::endl;
-    is >> point_a;
-    is >> point_b;
-    is >> point_c;
-    is >> point_d;
-    std::cout << "The square is created" << std::endl;
+Square::Square() : point_a(0.0, 0.0), point_b(0.0, 0.0), point_c(0.0, 0.0), point_d(0.0, 0.0) {
+	std::cout << "Default square is created" << std::endl;
 }
 
-void Square::Print(std::ostream& os) {
-    std::cout << "Square: ";
-    std::cout << point_a << ", ";
-    std::cout << point_b << ", ";
-    std::cout << point_c << ", ";
-    std::cout << point_d << std::endl;
+Square::Square(Point a, Point b, Point c, Point d) : point_a(a), point_b(b), point_c(c), point_d(d) {
+	std::cout << "Square is created with vertices: ";
+	std::cout << point_a << ", ";
+	std::cout << point_b << ", ";
+	std::cout << point_c << ", ";
+	std::cout << point_d << std::endl;
+}
+
+Square::Square(std::istream& is) {
+	is >> point_a >> point_b >> point_c >> point_d;
+}
+
+Square::Square(const Square& other) : Square(other.point_a, other.point_b, other.point_c, other.point_d) {
+	std::cout << "Square's copy is created" << std::endl;
 }
 
 size_t Square::VertexesNumber() {
-    size_t number = 4;
-    return number;
+	int vert_num = 4;
+	return vert_num;
 }
 
 double Square::Area() {
-    try {
-        double len_a = point_b.dist(point_a);
-        if (len_a < 0) {
-            throw "The length of the side is < 0";
-        }
-        return pow(len_a, 2);
-    }
-    catch (const char* exception) {
-        std::cerr << "Error: " << exception << std::endl;
-    }
+	double side = 0.0;
+	double fig_square = 0.0;
+	side = point_b.dist(point_a);
+	fig_square = side * side;
+	return fig_square;
+}
+
+void Square::Print(std::ostream& os) {
+	os << "Square: ";
+	os << point_a << " ";
+	os << point_b << " ";
+	os << point_c << " ";
+	os << point_d << std::endl;
 }
 
 Square::~Square() {
-    std::cout << "The square is deleted" << std::endl;
+	std::cout << "Square is deleted" << std::endl;
 }
