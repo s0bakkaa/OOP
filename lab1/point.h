@@ -25,4 +25,4 @@ private:
     double y_;
 };
 
-#endif // POINT_H
+#endif // POINT_H#pragma once
