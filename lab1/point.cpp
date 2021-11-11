@@ -1,25 +1,28 @@
-#include "point.h"
+#ifndef POINT_H
+#define POINT_H
 
-Point::Point() : x_(0.0), y_(0.0) {}
+#include <iostream>
+#include <vector>
+#include <cmath>
 
-Point::Point(double x, double y) : x_(x), y_(y) {}
+class Point {
+public:
+    Point();
+    Point(std::istream& is);
+    Point(double x, double y);
 
-Point::Point(std::istream& is) {
-    is >> x_ >> y_;
-}
+    double dist(Point& other);
 
-double Point::dist(Point& other) {
-    double dx = (other.x_ - x_);
-    double dy = (other.y_ - y_);
-    return std::sqrt(dx * dx + dy * dy);
-}
+    friend std::istream& operator>>(std::istream& is, Point& p);
+    friend std::ostream& operator<<(std::ostream& os, Point& p);
 
-std::istream& operator>>(std::istream& is, Point& p) {
-    is >> p.x_ >> p.y_;
-    return is;
-}
+    friend class Square;
+    friend class Rectangle;
+    friend class Trapezoid;
 
-std::ostream& operator<<(std::ostream& os, Point& p) {
-    os << "(" << p.x_ << ", " << p.y_ << ")";
-    return os;
-}
+private:
+    double x_;
+    double y_;
+};
+
+#endif // POINT_H#pragma once
