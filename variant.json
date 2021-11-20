@@ -10,10 +10,10 @@
 		"TLinkedList"
 	],
 	"finished_labs": {
-		"lab1": "lab1",
-		"lab2": "lab2",
+		"lab1:5": "lab1",
+		"lab2:5": "lab2",
 		"lab3": "lab3",
-		"lab4": "4_lab",
-    		"lab5": "5_lab"
+		"lab4": "lab4",
+    		"lab5": "__in_progress__"
 	}
 }
