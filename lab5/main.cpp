@@ -1,17 +1,26 @@
-﻿#include <iostream>
-#include "square.h"
 #include "tqueue.h"
 
-int main() {
-    std::vector<Point> v{ Point(0, 0), Point(0, 1), Point(1, 1), Point(1, 0) };
+int main(int argc, char** argv) {
     TQueue<Square> queue;
-    queue.push(std::shared_ptr<Square>(new Square(v)));
-    queue.push(std::shared_ptr<Square>(new Square()));
-    std::cout << queue;
-    std::shared_ptr<Square> s;
-    s = queue.pop();
-    std::cout << *s << std::endl;
-    s = queue.pop();
-    std::cout << *s << std::endl;
+    Point a_1(1.0, 1.0);
+    Point b_1(1.0, 2.0);
+    Point c_1(2.0, 2.0);
+    Point d_1(2.0, 1.0);
+    Point a_2(3.0, 1.0);
+    Point b_2(3.0, 3.0);
+    Point c_2(5.0, 3.0);
+    Point d_2(5.0, 1.0);
+    Point a_3(0.0, 0.0);
+    Point b_3(0.0, 4.0);
+    Point c_3(4.0, 4.0);
+    Point d_3(4.0, 0.0);
+    queue.Push(std::shared_ptr<Square>(new Square(a_1, b_1, c_1, d_1)));
+    queue.Push(std::shared_ptr<Square>(new Square(a_2, b_2, c_2, c_2)));
+    queue.Push(std::shared_ptr<Square>(new Square(a_3, b_3, c_3, d_3)));
+   
+    for (auto i : queue) {
+        std::cout << *i << std::endl;
+    }
+
     return 0;
 }
