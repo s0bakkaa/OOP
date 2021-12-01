@@ -8,23 +8,23 @@ public:
     TQueue();
     TQueue(const TQueue& other);
 
-    bool push(std::shared_ptr<Square>&& square);
-    bool pop();
-    bool empty();
+    void Push(std::shared_ptr<Square> &&square);
+    std::shared_ptr<Square> Pop();
 
-    std::shared_ptr<Square> top();
+    std::shared_ptr<Square> Top();
 
-    size_t size();
+    bool Empty();
+
+    size_t Length();
 
     friend std::ostream& operator<<(std::ostream& os, const TQueue& queue);
 
-    ~TQueue();
+    virtual ~TQueue();
 
 private:
-    std::shared_ptr <TQueueItem> head;
-    std::shared_ptr <TQueueItem> tail;
-    size_t numOfElems;
+    std::shared_ptr<TQueueItem> head;
+    std::shared_ptr<TQueueItem> tail;
+    size_t num_of_elem;
 };
 
 #endif // TQUEUE_H
-
