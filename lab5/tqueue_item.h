@@ -4,20 +4,22 @@
 #include <memory>
 #include "square.h"
 
-template<typename T> class TQueueItem {
+template <class T> class TQueueItem {
 public:
-    TQueueItem() = default;
-    TQueueItem(const std::shared_ptr<T>& item);
+    TQueueItem(const std::shared_ptr<T>& square);
     TQueueItem(const std::shared_ptr<TQueueItem<T>>& other);
 
-    std::shared_ptr<TQueueItem<T>> SetNext(std::shared_ptr<TQueueItem<T>>& next_);
+    std::shared_ptr<TQueueItem<T>> SetNext(std::shared_ptr<TQueueItem> &next);
     std::shared_ptr<TQueueItem<T>> GetNext();
 
-    std::shared_ptr<T> GetItem();
+    std::shared_ptr<T> GetValue() const;
 
-    template<typename A> friend std::ostream& operator<<(std::ostream& os, const TQueueItem<A>& obg);
+    template<class A> friend std::ostream& operator<<(std::ostream& os, const TQueueItem<A>& obj);
 
-    ~TQueueItem() = default;
+    void* operator new(size_t size);
+    void operator delete(void* p);
+
+    virtual ~TQueueItem();
 
 private:
     std::shared_ptr<T> item;
