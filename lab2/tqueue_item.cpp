@@ -18,20 +18,20 @@ TQueueItem* TQueueItem::SetNext(TQueueItem* next) {
     return prev;
 }
 
-Square TQueueItem::GetSquare() {
-    return this->square;
-}
-
 TQueueItem* TQueueItem::GetNext() {
     return this->next;
 }
 
-TQueueItem::~TQueueItem() {
-    std::cout << "Queue item is deleted" << std::endl;
-    delete next;
+Square TQueueItem::GetSquare() const {
+    return this->square;
 }
 
 std::ostream& operator<<(std::ostream& os, const TQueueItem& obj) {
     os << "Item: " << obj.square << std::endl;
     return os;
+}
+
+TQueueItem::~TQueueItem() {
+    delete next;
+    std::cout << "The queue item is deleted" << std::endl;
 }
