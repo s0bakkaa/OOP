@@ -12,25 +12,25 @@ TQueueItem::TQueueItem(const std::shared_ptr<TQueueItem>& other) {
     std::cout << "Queue item is copied" << std::endl;
 }
 
-std::shared_ptr<TQueueItem> TQueueItem::SetNext(std::shared_ptr<TQueueItem>& next) {
+std::shared_ptr<TQueueItem> TQueueItem::SetNext(std::shared_ptr<TQueueItem> &next) {
     std::shared_ptr<TQueueItem> prev = this->next;
     this->next = next;
     return prev;
-}
-
-std::shared_ptr<Square> TQueueItem::GetSquare() {
-    return this->square;
 }
 
 std::shared_ptr<TQueueItem> TQueueItem::GetNext() {
     return this->next;
 }
 
-TQueueItem::~TQueueItem() {
-    std::cout << "Queue item is deleted" << std::endl;
+std::shared_ptr<Square> TQueueItem::GetSquare() const {
+    return this->square;
 }
 
 std::ostream& operator<<(std::ostream& os, const TQueueItem& obj) {
-    os << "Item: " << *(obj.square) << std::endl;
+    os << "Item: " << *obj.square << std::endl;
     return os;
+}
+
+TQueueItem::~TQueueItem() {
+    std::cout << "The queue item is deleted" << std::endl;
 }
