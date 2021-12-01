@@ -5,22 +5,21 @@
 
 class TQueueItem {
 public:
-	TQueueItem(const Square& square);
-	TQueueItem(const TQueueItem& other);
+    TQueueItem(const Square& square);
+    TQueueItem(const TQueueItem& other);
 
-	TQueueItem* SetNext(TQueueItem* next);
-	TQueueItem* GetNext();
+    TQueueItem* SetNext(TQueueItem* next);
+    TQueueItem* GetNext();
 
-	Square GetSquare();
+    Square GetSquare() const;
 
-	friend std::ostream& operator<<(std::ostream& os, const TQueueItem& obj);
+    friend std::ostream& operator<<(std::ostream& os, const TQueueItem& obj);
 
-	virtual ~TQueueItem();
+    virtual ~TQueueItem();
 
 private:
-	Square square;
-	TQueueItem* next;
+    Square square;
+    TQueueItem* next;
 };
 
 #endif // TQUEUE_ITEM_H
-
