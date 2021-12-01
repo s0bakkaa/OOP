@@ -8,23 +8,25 @@ public:
     TQueue();
     TQueue(const TQueue& other);
 
-    bool push(Square&& square);
-    bool pop();
-    bool empty();
+    void Push(Square&& square);
+    Square Pop();
 
-    Square top();
+    const Square& Top();
 
-    size_t size();
+    bool Empty();
+
+    size_t Length();
 
     friend std::ostream& operator<<(std::ostream& os, const TQueue& queue);
 
-    ~TQueue();
+    void Clear();
+
+    virtual ~TQueue();
 
 private:
     TQueueItem* head;
     TQueueItem* tail;
-    size_t numOfElems;
+    size_t num_of_elem;
 };
 
 #endif // TQUEUE_H
-
