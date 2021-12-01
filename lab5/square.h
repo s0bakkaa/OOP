@@ -1,30 +1,31 @@
 #ifndef SQUARE_H
 #define SQUARE_H
 
-#include <iostream>
-#include <vector>
-#include "point.h"
+#include "figure.h"
 
-class Square {
+class Square : public Figure {
 public:
-    Square();
-    Square(std::vector<Point>);
-    Square(const Square& other);
+	Square();
+	Square(Point a, Point b, Point c, Point d);
+	Square(const Square& other);
 
-    friend std::istream& operator>>(std::istream& is, Square& obj);
-    friend std::ostream& operator<<(std::ostream& os, const Square& obj);
+	double Area();
 
-    Square& operator++();
-    friend Square operator+(const Square& left, const Square& right);
-    Square& operator=(const Square& right);
+	friend std::istream& operator>>(std::istream& is, Square& obj);
+	friend std::ostream& operator<<(std::ostream& os, const Square& obj);
 
-    size_t VertexesNumber();
-    double Area();
+	Square& operator++();
+	friend Square operator+(const Square& left, const Square& right);
 
-    virtual ~Square();
+	Square& operator=(const Square& other);
+
+	virtual ~Square();
 
 private:
-    Point a, b, c, d;
+	Point point_a; // lower left corner, then clockwise
+	Point point_b;
+	Point point_c;
+	Point point_d;
 };
 
 #endif // SQUARE_H
