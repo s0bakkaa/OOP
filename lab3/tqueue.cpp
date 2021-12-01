@@ -1,65 +1,67 @@
 #include "tqueue.h"
 
-TQueue::TQueue() : head(nullptr), tail(nullptr), numOfElems(0) {}
+TQueue::TQueue() : head(nullptr), tail(nullptr), num_of_elem(0) {
 
-TQueue::TQueue(const TQueue& other) : head(other.head), tail(other.tail), numOfElems(other.numOfElems) {}
+}
 
-std::ostream& operator<<(std::ostream& os, const TQueue& que) {
-    std::shared_ptr<TQueueItem> queueItem = que.head;
+TQueue::TQueue(const TQueue& other) {
+    head = other.head;
+}
 
-    while (queueItem != nullptr) {
-        os << *queueItem;
-        queueItem = queueItem->GetNext();
+std::ostream& operator<<(std::ostream& os, const TQueue& queue) {
+    std::shared_ptr<TQueueItem> item = queue.head;
+
+    while (item != nullptr) {
+        os << *item << " => ";
+        item = item->GetNext();
     }
-
     return os;
 }
 
-bool TQueue::push(std::shared_ptr<Square>&& square) {
-    std::shared_ptr<TQueueItem> other = std::make_shared<TQueueItem>(TQueueItem(square));
-
-    if (other == nullptr) {
-        return false;
+void TQueue::Push(std::shared_ptr<Square> &&square) {
+    std::shared_ptr<TQueueItem> item = std::make_shared<TQueueItem>(TQueueItem(square));
+    if (item != nullptr) {
+        if (this->Empty()) {
+            this->head = this->tail = item;
+        }
+        else if (num_of_elem == 1) {
+            tail = item;
+            head->SetNext(item);
+        }
+        else {
+            this->tail->SetNext(item);
+            tail = item;
+        }
+        num_of_elem++;
     }
-
-    if (this->empty()) {
-        this->head = this->tail = other;
-    }
-    else if (numOfElems == 1) {
-        tail = other;
-        head->SetNext(tail);
-    }
-    else {
-        this->tail->SetNext(other);
-        tail = other;
-    }
-
-    numOfElems++;
-
-    return true;
 }
 
-bool TQueue::pop() {
-    if (head) {
+std::shared_ptr<Square> TQueue::Pop() {
+    std::shared_ptr<Square> result;
+    if (head != nullptr) {
+        std::shared_ptr<TQueueItem> item = head;
         head = head->GetNext();
-
-        return true;
+        result = item->GetSquare();
+        //item->SetNext(nullptr);
+        //delete item;
     }
-    return false;
+    return result;
 }
 
-std::shared_ptr<Square> TQueue::top() {
+std::shared_ptr<Square> TQueue::Top() {
     if (head) {
         return head->GetSquare();
     }
 }
 
-size_t TQueue::size() {
-    return numOfElems;
-}
-
-bool TQueue::empty() {
+bool TQueue::Empty() {
     return head == nullptr;
 }
 
-TQueue::~TQueue() {}
+size_t TQueue::Length() {
+    return num_of_elem;
+}
+
+TQueue::~TQueue() {
+
+}
