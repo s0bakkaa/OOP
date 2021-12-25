@@ -1,29 +1,37 @@
 #ifndef TQUEUE_H
 #define TQUEUE_H
 
-#include <memory>
-#include "square.h"
+#include "titerator.h"
 #include "tqueue_item.h"
 
-template <class T> class TQueue {
+template <class T> 
+class TQueue {
 public:
     TQueue();
     TQueue(const TQueue<T>& other);
 
-    ~TQueue() = default;
+    void Push(std::shared_ptr<T> &&square);
+    std::shared_ptr<T> Pop();
 
-    template <class A> 
+    std::shared_ptr<T> Top();
+
+    bool Empty();
+
+    size_t Length();
+
+    template <class A>
     friend std::ostream& operator<<(std::ostream& os, const TQueue<A>& queue);
 
-    void push(std::shared_ptr<T>&& item);
-    std::shared_ptr<T> pop();
-    std::shared_ptr<T> top();
-    bool empty();
-    size_t size();
+    TIterator<TQueueItem<T>, T> begin();
+    TIterator<TQueueItem<T>, T> end();
+
+    virtual ~TQueue();
 
 private:
-    std::shared_ptr<TQueueItem<T>> first, last;
-    size_t n;
+    std::shared_ptr<TQueueItem<T>> head;
+    std::shared_ptr<TQueueItem<T>> tail;
+    size_t num_of_elem;
 };
 
 #endif // TQUEUE_H
+#aaaa
