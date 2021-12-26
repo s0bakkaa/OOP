@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.20)
+project(lab01)
+
+add_executable(lab01 main.cpp)
