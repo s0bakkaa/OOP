@@ -4,7 +4,7 @@ project(lab5)
 set(CMAKE_CXX_STANDARD 14)
 
 
-add_executable(lab1
+add_executable(lab5
   figure.h
   main.cpp
   point.h point.cpp
