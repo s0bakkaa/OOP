@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.20)
-project(lab1)
+project(lab2)
 
 set(CMAKE_CXX_STANDARD 14)
 
 
-add_executable(lab1
+add_executable(lab2
   figure.h
   main.cpp
   point.h point.cpp
