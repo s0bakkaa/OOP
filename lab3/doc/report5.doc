@@ -1,0 +1,524 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc1
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Liberation Serif;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;}
+{\stylesheet
+{\s6\fi-429\li720\sbasedon28\snext28 Contents 1;}
+{\s7\fi-429\li1440\sbasedon28\snext28 Contents 2;}
+{\s1\fi-429\li720 Arrowhead List;}
+{\s27\fi-429\li720\sbasedon28 Lower Roman List;}
+{\s29\tx431\sbasedon20\snext28 Numbered Heading 1;}
+{\s30\tx431\sbasedon21\snext28 Numbered Heading 2;}
+{\s12\fi-429\li720 Diamond List;}
+{\s9\fi-429\li2880\sbasedon28\snext28 Contents 4;}
+{\s8\fi-429\li2160\sbasedon28\snext28 Contents 3;}
+{\s31\tx431\sbasedon22\snext28 Numbered Heading 3;}
+{\s32\fi-429\li720 Numbered List;}
+{\s15\sbasedon28 Endnote Text;}
+{\*\cs14\fs20\super Endnote Reference;}
+{\s4\fi-429\li720 Bullet List;}
+{\s5\tx1584\sbasedon29\snext28 Chapter Heading;}
+{\s35\fi-429\li720 Square List;}
+{\s11\fi-429\li720 Dashed List;}
+{\s22\sb440\sa60\f1\fs24\b\sbasedon28\snext28 Heading 3;}
+{\s37\fi-429\li720 Tick List;}
+{\s24\fi-429\li720 Heart List;}
+{\s40\fi-429\li720\sbasedon32 Upper Roman List;}
+{\s39\fi-429\li720\sbasedon32 Upper Case List;}
+{\s16\fi-288\li288\fs20\sbasedon28 Footnote;}
+{\s19\fi-429\li720 Hand List;}
+{\s18\fs20\sbasedon28 Footnote Text;}
+{\s20\sb440\sa60\f1\fs34\b\sbasedon28\snext28 Heading 1;}
+{\s21\sb440\sa60\f1\fs28\b\sbasedon28\snext28 Heading 2;}
+{\s10\qc\sb240\sa118\f1\fs32\b\sbasedon28\snext28 Contents Header;}
+{\s23\sb440\sa60\f1\fs24\b\sbasedon28\snext28 Heading 4;}
+{\s28\f0\fs24 Normal;}
+{\s26\fi-429\li720\sbasedon32 Lower Case List;}
+{\s2\li1440\ri1440\sa118\sbasedon28 Block Text;}
+{\s33\f2\sbasedon28 Plain Text;}
+{\s34\tx1584\sbasedon29\snext28 Section Heading;}
+{\s25\fi-429\li720 Implies List;}
+{\s3\fi-429\li720 Box List;}
+{\s36\fi-429\li720 Star List;}
+{\*\cs17\fs20\super Footnote Reference;}
+{\s38\fi-429\li720 Triangle List;}
+{\s13\fi-288\li288\sbasedon28 Endnote;}}
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw11905\paperh16837\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\headery0\footery0\pgncont\ltrsect
+\pard\plain\ltrpar\qc\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1052 \uc0\u1048 \uc0\u1053 \uc0\u1048 \uc0\u1057 \uc0\u1058 \uc0\u1045 \uc0\u1056 \uc0\u1057 \uc0\u1058 \uc0\u1042 \uc0\u1054  \uc0\u1054 \uc0\u1041 \uc0\u1056 \uc0\u1040 \uc0\u1047 \uc0\u1054 \uc0\u1042 \uc0\u1040 \uc0\u1053 \uc0\u1048 \uc0\u1071  \uc0\u1048  \uc0\u1053 \uc0\u1040 \uc0\u1059 \uc0\u1050 \uc0\u1048  \uc0\u1056 \uc0\u1054 \uc0\u1057 \uc0\u1057 \uc0\u1048 \uc0\u1049 \uc0\u1057 \uc0\u1050 \uc0\u1054 \uc0\u1049  \uc0\u1060 \uc0\u1045 \uc0\u1044 \uc0\u1045 \uc0\u1056 \uc0\u1040 \uc0\u1062 \uc0\u1048 \uc0\u1048 }{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1052 \uc0\u1054 \uc0\u1057 \uc0\u1050 \uc0\u1054 \uc0\u1042 \uc0\u1057 \uc0\u1050 \uc0\u1048 \uc0\u1049  \uc0\u1040 \uc0\u1042 \uc0\u1048 \uc0\u1040 \uc0\u1062 \uc0\u1048 \uc0\u1054 \uc0\u1053 \uc0\u1053 \uc0\u1067 \uc0\u1049  \uc0\u1048 \uc0\u1053 \uc0\u1057 \uc0\u1058 \uc0\u1048 \uc0\u1058 \uc0\u1059 \uc0\u1058 }{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch (\uc0\u1053 \uc0\u1040 \uc0\u1062 \uc0\u1048 \uc0\u1054 \uc0\u1053 \uc0\u1040 \uc0\u1051 \uc0\u1068 \uc0\u1053 \uc0\u1067 \uc0\u1049  \uc0\u1048 \uc0\u1057 \uc0\u1057 \uc0\u1051 \uc0\u1045 \uc0\u1044 \uc0\u1054 \uc0\u1042 \uc0\u1040 \uc0\u1058 \uc0\u1045 \uc0\u1051 \uc0\u1068 \uc0\u1057 \uc0\u1050 \uc0\u1048 \uc0\u1049  \uc0\u1059 \uc0\u1053 \uc0\u1048 \uc0\u1042 \uc0\u1045 \uc0\u1056 \uc0\u1057 \uc0\u1048 \uc0\u1058 \uc0\u1045 \uc0\u1058 )}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1051 \uc0\u1040 \uc0\u1041 \uc0\u1054 \uc0\u1056 \uc0\u1040 \uc0\u1058 \uc0\u1054 \uc0\u1056 \uc0\u1053 \uc0\u1040 \uc0\u1071  \uc0\u1056 \uc0\u1040 \uc0\u1041 \uc0\u1054 \uc0\u1058 \uc0\u1040  \uc0\u8470 5}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1087 \uc0\u1086  \uc0\u1082 \uc0\u1091 \uc0\u1088 \uc0\u1089 \uc0\u1091  \uc1\u8220\'93\uc0\u1054 \uc0\u1073 \uc0\u1098 \uc0\u1077 \uc0\u1082 \uc0\u1090 \uc0\u1085 \uc0\u1086 -\uc0\u1086 \uc0\u1088 \uc0\u1080 \uc0\u1077 \uc0\u1085 \uc0\u1090 \uc0\u1080 \uc0\u1088 \uc0\u1086 \uc0\u1074 \uc0\u1072 \uc0\u1085 \uc0\u1085 \uc0\u1086 \uc0\u1077  \uc0\u1087 \uc0\u1088 \uc0\u1086 \uc0\u1075 \uc0\u1088 \uc0\u1072 \uc0\u1084 \uc0\u1084 \uc0\u1080 \uc0\u1088 \uc0\u1086 \uc0\u1074 \uc0\u1072 \uc0\u1085 \uc0\u1080 \uc0\u1077 \uc1\u8221\'94}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch III \uc0\u1089 \uc0\u1077 \uc0\u1084 \uc0\u1077 \uc0\u1089 \uc0\u1090 \uc0\u1088 , 2021/22 \uc0\u1091 \uc0\u1095 \uc0\u1077 \uc0\u1073 \uc0\u1085 \uc0\u1099 \uc0\u1081  \uc0\u1075 \uc0\u1086 \uc0\u1076 }{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qr\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1042 \uc0\u1099 \uc0\u1087 \uc0\u1086 \uc0\u1083 \uc0\u1085 \uc0\u1080 \uc0\u1083 \uc0\u1072  \uc0\u1089 \uc0\u1090 \uc0\u1091 \uc0\u1076 \uc0\u1077 \uc0\u1085 \uc0\u1090 \uc0\u1082 \uc0\u1072  \uc0\u1075 \uc0\u1088 \uc0\u1091 \uc0\u1087 \uc0\u1087 \uc0\u1099  }{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\uc0\u1052 8\uc0\u1054 -208\uc0\u1041 -20}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qr\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1064 \uc0\u1072 \uc0\u1090 \uc0\u1091 \uc0\u1085 \uc0\u1086 \uc0\u1074 \uc0\u1072  \uc0\u1070 \uc0\u1083 \uc0\u1080 \uc0\u1103  \uc0\u1042 \uc0\u1080 \uc0\u1082 \uc0\u1090 \uc0\u1086 \uc0\u1088 \uc0\u1086 \uc0\u1074 \uc0\u1085 \uc0\u1072 }{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qr\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1055 \uc0\u1088 \uc0\u1077 \uc0\u1087 \uc0\u1086 \uc0\u1076 \uc0\u1072 \uc0\u1074 \uc0\u1072 \uc0\u1090 \uc0\u1077 \uc0\u1083 \uc0\u1100 : }{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\uc0\u1044 \uc0\u1086 \uc0\u1088 \uc0\u1086 \uc0\u1093 \uc0\u1086 \uc0\u1074  \uc0\u1045 \uc0\u1074 \uc0\u1075 \uc0\u1077 \uc0\u1085 \uc0\u1080 \uc0\u1081  \uc0\u1055 \uc0\u1072 \uc0\u1074 \uc0\u1083 \uc0\u1086 \uc0\u1074 \uc0\u1080 \uc0\u1095 }{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1052 \uc0\u1086 \uc0\u1089 \uc0\u1082 \uc0\u1074 \uc0\u1072 , 2021}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1062 \uc0\u1077 \uc0\u1083 \uc0\u1100  \uc0\u1088 \uc0\u1072 \uc0\u1073 \uc0\u1086 \uc0\u1090 \uc0\u1099 }{\s28\f0\fs28\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1062 \uc0\u1077 \uc0\u1083 \uc0\u1100 \uc0\u1102  \uc0\u1083 \uc0\u1072 \uc0\u1073 \uc0\u1086 \uc0\u1088 \uc0\u1072 \uc0\u1090 \uc0\u1086 \uc0\u1088 \uc0\u1085 \uc0\u1086 \uc0\u1081  \uc0\u1088 \uc0\u1072 \uc0\u1073 \uc0\u1086 \uc0\u1090 \uc0\u1099  \uc0\u1103 \uc0\u1074 \uc0\u1083 \uc0\u1103 \uc0\u1077 \uc0\u1090 \uc0\u1089 \uc0\u1103 :}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch 1. \uc0\u1079 \uc0\u1072 \uc0\u1082 \uc0\u1088 \uc0\u1077 \uc0\u1087 \uc0\u1083 \uc0\u1077 \uc0\u1085 \uc0\u1080 \uc0\u1077  \uc0\u1085 \uc0\u1072 \uc0\u1074 \uc0\u1099 \uc0\u1082 \uc0\u1086 \uc0\u1074  \uc0\u1088 \uc0\u1072 \uc0\u1073 \uc0\u1086 \uc0\u1090 \uc0\u1099  \uc0\u1089  \uc0\u1082 \uc0\u1083 \uc0\u1072 \uc0\u1089 \uc0\u1089 \uc0\u1072 \uc0\u1084 \uc0\u1080 ;}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch 2. \uc0\u1079 \uc0\u1085 \uc0\u1072 \uc0\u1082 \uc0\u1086 \uc0\u1084 \uc0\u1089 \uc0\u1090 \uc0\u1074 \uc0\u1086  \uc0\u1089  \uc0\u1091 \uc0\u1084 \uc0\u1085 \uc0\u1099 \uc0\u1084 \uc0\u1080  \uc0\u1091 \uc0\u1082 \uc0\u1072 \uc0\u1079 \uc0\u1072 \uc0\u1090 \uc0\u1077 \uc0\u1083 \uc0\u1103 \uc0\u1084 \uc0\u1080 .}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1047 \uc0\u1072 \uc0\u1076 \uc0\u1072 \uc0\u1085 \uc0\u1080 \uc0\u1077 }{\s28\f0\fs28\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1053 \uc0\u1077 \uc0\u1086 \uc0\u1073 \uc0\u1093 \uc0\u1086 \uc0\u1076 \uc0\u1080 \uc0\u1084 \uc0\u1086  \uc0\u1089 \uc0\u1087 \uc0\u1088 \uc0\u1086 \uc0\u1077 \uc0\u1082 \uc0\u1090 \uc0\u1080 \uc0\u1088 \uc0\u1086 \uc0\u1074 \uc0\u1072 \uc0\u1090 \uc0\u1100  \uc0\u1080  \uc0\u1079 \uc0\u1072 \uc0\u1087 \uc0\u1088 \uc0\u1086 \uc0\u1075 \uc0\u1088 \uc0\u1072 \uc0\u1084 \uc0\u1084 \uc0\u1080 \uc0\u1088 \uc0\u1086 \uc0\u1074 \uc0\u1072 \uc0\u1090 \uc0\u1100  \uc0\u1085 \uc0\u1072  \uc0\u1103 \uc0\u1079 \uc0\u1099 \uc0\u1082 \uc0\u1077  C++ \uc0\u1082 \uc0\u1083 \uc0\u1072 \uc0\u1089 \uc0\u1089 -\uc0\u1082 \uc0\u1086 \uc0\u1085 \uc0\u1090 \uc0\u1077 \uc0\u1081 \uc0\u1085 \uc0\u1077 \uc0\u1088  \uc0\u1087 \uc0\u1077 \uc0\u1088 \uc0\u1074 \uc0\u1086 \uc0\u1075 \uc0\u1086  \uc0\u1091 \uc0\u1088 \uc0\u1086 \uc0\u1074 \uc0\u1085 \uc0\u1103 , \uc0\u1089 \uc0\u1086 \uc0\u1076 \uc0\u1077 \uc0\u1088 \uc0\u1078 \uc0\u1072 \uc0\u1097 \uc0\u1080 \uc0\u1081  \uc0\u1086 \uc0\u1076 \uc0\u1085 \uc0\u1091  \uc0\u1092 \uc0\u1080 \uc0\u1075 \uc0\u1091 \uc0\u1088 \uc0\u1091  (\uc0\u1082 \uc0\u1086 \uc0\u1083 \uc0\u1086 \uc0\u1085 \uc0\u1082 \uc0\u1072  \uc0\u1092 \uc0\u1080 \uc0\u1075 \uc0\u1091 \uc0\u1088 \uc0\u1072  1) \uc0\u1089 \uc0\u1086 \uc0\u1075 \uc0\u1083 \uc0\u1072 \uc0\u1089 \uc0\u1085 \uc0\u1086  \uc0\u1074 \uc0\u1072 \uc0\u1088 \uc0\u1080 \uc0\u1072 \uc0\u1085 \uc0\u1090 \uc0\u1072 \uc0\u1084  \uc0\u1079 \uc0\u1072 \uc0\u1076 \uc0\u1072 \uc0\u1085 \uc0\u1080 \uc0\u1103 . \uc0\u1050 \uc0\u1083 \uc0\u1072 \uc0\u1089 \uc0\u1089 \uc0\u1099  \uc0\u1076 \uc0\u1086 \uc0\u1083 \uc0\u1078 \uc0\u1085 \uc0\u1099  \uc0\u1091 \uc0\u1076 \uc0\u1086 \uc0\u1074 \uc0\u1083 \uc0\u1077 \uc0\u1090 \uc0\u1074 \uc0\u1086 \uc0\u1088 \uc0\u1103 \uc0\u1090 \uc0\u1100  \uc0\u1089 \uc0\u1083 \uc0\u1077 \uc0\u1076 \uc0\u1091 \uc0\u1102 \uc0\u1097 \uc0\u1080 \uc0\u1084  \uc0\u1087 \uc0\u1088 \uc0\u1072 \uc0\u1074 \uc0\u1080 \uc0\u1083 \uc0\u1072 \uc0\u1084 :}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch 1. \uc0\u1090 \uc0\u1088 \uc0\u1077 \uc0\u1073 \uc0\u1086 \uc0\u1074 \uc0\u1072 \uc0\u1085 \uc0\u1080 \uc0\u1103  \uc0\u1082  \uc0\u1082 \uc0\u1083 \uc0\u1072 \uc0\u1089 \uc0\u1089 \uc0\u1091  \uc0\u1092 \uc0\u1080 \uc0\u1075 \uc0\u1091 \uc0\u1088 \uc0\u1099  \uc0\u1072 \uc0\u1085 \uc0\u1072 \uc0\u1083 \uc0\u1086 \uc0\u1075 \uc0\u1080 \uc0\u1095 \uc0\u1085 \uc0\u1099  \uc0\u1090 \uc0\u1088 \uc0\u1077 \uc0\u1073 \uc0\u1086 \uc0\u1074 \uc0\u1072 \uc0\u1085 \uc0\u1080 \uc0\u1103 \uc0\u1084  \uc0\u1080 \uc0\u1079  \uc0\u1083 \uc0\u1072 \uc0\u1073 \uc0\u1086 \uc0\u1088 \uc0\u1072 \uc0\u1090 \uc0\u1086 \uc0\u1088 \uc0\u1085 \uc0\u1086 \uc0\u1081  \uc0\u1088 \uc0\u1072 \uc0\u1073 \uc0\u1086 \uc0\u1090 \uc0\u1099  \uc0\u8470 4;}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch 2. \uc0\u1082 \uc0\u1083 \uc0\u1072 \uc0\u1089 \uc0\u1089 -\uc0\u1082 \uc0\u1086 \uc0\u1085 \uc0\u1090 \uc0\u1077 \uc0\u1081 \uc0\u1085 \uc0\u1077 \uc0\u1088  \uc0\u1076 \uc0\u1086 \uc0\u1083 \uc0\u1078 \uc0\u1077 \uc0\u1085  \uc0\u1089 \uc0\u1086 \uc0\u1076 \uc0\u1077 \uc0\u1088 \uc0\u1078 \uc0\u1072 \uc0\u1090 \uc0\u1100  \uc0\u1086 \uc0\u1073 \uc0\u1098 \uc0\u1077 \uc0\u1082 \uc0\u1090 \uc0\u1099 , \uc0\u1080 \uc0\u1089 \uc0\u1087 \uc0\u1086 \uc0\u1083 \uc0\u1100 \uc0\u1079 \uc0\u1091 \uc0\u1103  std::shared_ptr<...>;}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch 3. \uc0\u1082 \uc0\u1083 \uc0\u1072 \uc0\u1089 \uc0\u1089 \uc0\u1099  \uc0\u1076 \uc0\u1086 \uc0\u1083 \uc0\u1078 \uc0\u1085 \uc0\u1099  \uc0\u1073 \uc0\u1099 \uc0\u1090 \uc0\u1100  \uc0\u1088 \uc0\u1072 \uc0\u1089 \uc0\u1087 \uc0\u1086 \uc0\u1083 \uc0\u1086 \uc0\u1078 \uc0\u1077 \uc0\u1085 \uc0\u1099  \uc0\u1074  \uc0\u1088 \uc0\u1072 \uc0\u1079 \uc0\u1076 \uc0\u1077 \uc0\u1083 \uc0\u1100 \uc0\u1085 \uc0\u1099 \uc0\u1093  \uc0\u1092 \uc0\u1072 \uc0\u1081 \uc0\u1083 \uc0\u1072 \uc0\u1093 : \uc0\u1086 \uc0\u1090 \uc0\u1076 \uc0\u1077 \uc0\u1083 \uc0\u1100 \uc0\u1085 \uc0\u1086  \uc0\u1079 \uc0\u1072 \uc0\u1075 \uc0\u1086 \uc0\u1083 \uc0\u1086 \uc0\u1074 \uc0\u1082 \uc0\u1080  (.h), \uc0\u1086 \uc0\u1090 \uc0\u1076 \uc0\u1077 \uc0\u1083 \uc0\u1100 \uc0\u1085 \uc0\u1086  \uc0\u1086 \uc0\u1087 \uc0\u1080 \uc0\u1089 \uc0\u1072 \uc0\u1085 \uc0\u1080 \uc0\u1077  \uc0\u1084 \uc0\u1077 \uc0\u1090 \uc0\u1086 \uc0\u1076 \uc0\u1086 \uc0\u1074  (.cpp).}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1053 \uc0\u1077 \uc0\u1083 \uc0\u1100 \uc0\u1079 \uc0\u1103  \uc0\u1080 \uc0\u1089 \uc0\u1087 \uc0\u1086 \uc0\u1083 \uc0\u1100 \uc0\u1079 \uc0\u1086 \uc0\u1074 \uc0\u1072 \uc0\u1090 \uc0\u1100 :}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch 1. \uc0\u1089 \uc0\u1090 \uc0\u1072 \uc0\u1085 \uc0\u1076 \uc0\u1072 \uc0\u1088 \uc0\u1090 \uc0\u1085 \uc0\u1099 \uc0\u1077  \uc0\u1082 \uc0\u1086 \uc0\u1085 \uc0\u1090 \uc0\u1077 \uc0\u1081 \uc0\u1085 \uc0\u1077 \uc0\u1088 \uc0\u1099  std;}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch 2. \uc0\u1096 \uc0\u1072 \uc0\u1073 \uc0\u1083 \uc0\u1086 \uc0\u1085 \uc0\u1099  (template);}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch 3. \uc0\u1086 \uc0\u1073 \uc0\u1098 \uc0\u1077 \uc0\u1082 \uc0\u1090 \uc0\u1099  \uc1\u8220\'93\uc0\u1087 \uc0\u1086  \uc0\u1079 \uc0\u1085 \uc0\u1072 \uc0\u1095 \uc0\u1077 \uc0\u1085 \uc0\u1080 \uc0\u1102 \uc1\u8221\'94.}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1055 \uc0\u1088 \uc0\u1086 \uc0\u1075 \uc0\u1088 \uc0\u1072 \uc0\u1084 \uc0\u1084 \uc0\u1072  \uc0\u1076 \uc0\u1086 \uc0\u1083 \uc0\u1078 \uc0\u1085 \uc0\u1072  \uc0\u1087 \uc0\u1086 \uc0\u1079 \uc0\u1074 \uc0\u1086 \uc0\u1083 \uc0\u1103 \uc0\u1090 \uc0\u1100 :}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch 1. \uc0\u1074 \uc0\u1074 \uc0\u1086 \uc0\u1076 \uc0\u1080 \uc0\u1090 \uc0\u1100  \uc0\u1087 \uc0\u1088 \uc0\u1086 \uc0\u1080 \uc0\u1079 \uc0\u1074 \uc0\u1086 \uc0\u1083 \uc0\u1100 \uc0\u1085 \uc0\u1086 \uc0\u1077  \uc0\u1082 \uc0\u1086 \uc0\u1083 \uc0\u1080 \uc0\u1095 \uc0\u1077 \uc0\u1089 \uc0\u1090 \uc0\u1074 \uc0\u1086  \uc0\u1092 \uc0\u1080 \uc0\u1075 \uc0\u1091 \uc0\u1088  \uc0\u1080  \uc0\u1076 \uc0\u1086 \uc0\u1073 \uc0\u1072 \uc0\u1074 \uc0\u1083 \uc0\u1103 \uc0\u1090 \uc0\u1100  \uc0\u1080 \uc0\u1093  \uc0\u1074  \uc0\u1082 \uc0\u1086 \uc0\u1085 \uc0\u1090 \uc0\u1077 \uc0\u1081 \uc0\u1085 \uc0\u1077 \uc0\u1088 ;}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch 2. \uc0\u1088 \uc0\u1072 \uc0\u1089 \uc0\u1087 \uc0\u1077 \uc0\u1095 \uc0\u1072 \uc0\u1090 \uc0\u1099 \uc0\u1074 \uc0\u1072 \uc0\u1090 \uc0\u1100  \uc0\u1089 \uc0\u1086 \uc0\u1076 \uc0\u1077 \uc0\u1088 \uc0\u1078 \uc0\u1080 \uc0\u1084 \uc0\u1086 \uc0\u1077  \uc0\u1082 \uc0\u1086 \uc0\u1085 \uc0\u1090 \uc0\u1077 \uc0\u1081 \uc0\u1085 \uc0\u1077 \uc0\u1088 \uc0\u1072 ;}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch 3. \uc0\u1091 \uc0\u1076 \uc0\u1072 \uc0\u1083 \uc0\u1103 \uc0\u1090 \uc0\u1100  \uc0\u1092 \uc0\u1080 \uc0\u1075 \uc0\u1091 \uc0\u1088 \uc0\u1099  \uc0\u1080 \uc0\u1079  \uc0\u1082 \uc0\u1086 \uc0\u1085 \uc0\u1090 \uc0\u1077 \uc0\u1081 \uc0\u1085 \uc0\u1077 \uc0\u1088 \uc0\u1072 .}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1044 \uc0\u1085 \uc0\u1077 \uc0\u1074 \uc0\u1085 \uc0\u1080 \uc0\u1082  \uc0\u1086 \uc0\u1090 \uc0\u1083 \uc0\u1072 \uc0\u1076 \uc0\u1082 \uc0\u1080 }{\s28\f0\fs28\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1042 \uc0\u1086  \uc0\u1074 \uc0\u1088 \uc0\u1077 \uc0\u1084 \uc0\u1103  \uc0\u1074 \uc0\u1099 \uc0\u1087 \uc0\u1086 \uc0\u1083 \uc0\u1085 \uc0\u1077 \uc0\u1085 \uc0\u1080 \uc0\u1103  \uc0\u1083 \uc0\u1072 \uc0\u1073 \uc0\u1086 \uc0\u1088 \uc0\u1072 \uc0\u1090 \uc0\u1086 \uc0\u1088 \uc0\u1085 \uc0\u1086 \uc0\u1081  \uc0\u1088 \uc0\u1072 \uc0\u1073 \uc0\u1086 \uc0\u1090 \uc0\u1099  \uc0\u1085 \uc0\u1077 \uc0\u1080 \uc0\u1089 \uc0\u1087 \uc0\u1088 \uc0\u1072 \uc0\u1074 \uc0\u1085 \uc0\u1086 \uc0\u1089 \uc0\u1090 \uc0\u1077 \uc0\u1081  \uc0\u1087 \uc0\u1086 \uc0\u1095 \uc0\u1090 \uc0\u1080  \uc0\u1085 \uc0\u1077  \uc0\u1074 \uc0\u1086 \uc0\u1079 \uc0\u1085 \uc0\u1080 \uc0\u1082 \uc0\u1072 \uc0\u1083 \uc0\u1086 , \uc0\u1074 \uc0\u1089 \uc0\u1077  \uc0\u1073 \uc0\u1099 \uc0\u1083 \uc0\u1086  \uc0\u1086 \uc0\u1090 \uc0\u1083 \uc0\u1072 \uc0\u1078 \uc0\u1077 \uc0\u1085 \uc0\u1086  \uc0\u1089 \uc0\u1088 \uc0\u1072 \uc0\u1079 \uc0\u1091  \uc0\u1078 \uc0\u1077 .}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1053 \uc0\u1077 \uc0\u1076 \uc0\u1086 \uc0\u1095 \uc0\u1077 \uc0\u1090 \uc0\u1099 }{\s28\f0\fs28\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1053 \uc0\u1077 \uc0\u1076 \uc0\u1086 \uc0\u1095 \uc0\u1077 \uc0\u1090 \uc0\u1086 \uc0\u1074  \uc0\u1085 \uc0\u1077  \uc0\u1073 \uc0\u1099 \uc0\u1083 \uc0\u1086  \uc0\u1086 \uc0\u1073 \uc0\u1085 \uc0\u1072 \uc0\u1088 \uc0\u1091 \uc0\u1078 \uc0\u1077 \uc0\u1085 \uc0\u1086 .}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1042 \uc0\u1099 \uc0\u1074 \uc0\u1086 \uc0\u1076 \uc0\u1099 }{\s28\f0\fs28\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1051 \uc0\u1072 \uc0\u1073 \uc0\u1086 \uc0\u1088 \uc0\u1072 \uc0\u1090 \uc0\u1086 \uc0\u1088 \uc0\u1085 \uc0\u1072 \uc0\u1103  \uc0\u1088 \uc0\u1072 \uc0\u1073 \uc0\u1086 \uc0\u1090 \uc0\u1072  \uc0\u8470 5 \uc0\u1087 \uc0\u1086 \uc0\u1079 \uc0\u1074 \uc0\u1086 \uc0\u1083 \uc0\u1080 \uc0\u1083 \uc0\u1072  \uc0\u1084 \uc0\u1085 \uc0\u1077  \uc0\u1087 \uc0\u1086 \uc0\u1083 \uc0\u1085 \uc0\u1086 \uc0\u1089 \uc0\u1090 \uc0\u1100 \uc0\u1102  \uc0\u1086 \uc0\u1089 \uc0\u1086 \uc0\u1079 \uc0\u1085 \uc0\u1072 \uc0\u1090 \uc0\u1100  \uc0\u1082 \uc0\u1086 \uc0\u1085 \uc0\u1094 \uc0\u1077 \uc0\u1087 \uc0\u1094 \uc0\u1080 \uc0\u1102  \uc0\u1091 \uc0\u1084 \uc0\u1085 \uc0\u1099 \uc0\u1093  \uc0\u1091 \uc0\u1082 \uc0\u1072 \uc0\u1079 \uc0\u1072 \uc0\u1090 \uc0\u1077 \uc0\u1083 \uc0\u1077 \uc0\u1081  \uc0\u1074  \uc0\u1103 \uc0\u1079 \uc0\u1099 \uc0\u1082 \uc0\u1077  C++ \uc0\u1080  \uc0\u1086 \uc0\u1090 \uc0\u1090 \uc0\u1086 \uc0\u1095 \uc0\u1080 \uc0\u1090 \uc0\u1100  \uc0\u1085 \uc0\u1072 \uc0\u1074 \uc0\u1099 \uc0\u1082 \uc0\u1080  \uc0\u1074  \uc0\u1088 \uc0\u1072 \uc0\u1073 \uc0\u1086 \uc0\u1090 \uc0\u1077  \uc0\u1089  \uc0\u1085 \uc0\u1080 \uc0\u1084 \uc0\u1080 .}{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u1048 \uc0\u1089 \uc0\u1093 \uc0\u1086 \uc0\u1076 \uc0\u1085 \uc0\u1099 \uc0\u1081  \uc0\u1082 \uc0\u1086 \uc0\u1076 }{\s28\f0\fs28\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch figure.h}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #ifndef FIGURE_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #define FIGURE_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include "point.h"}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch class Figure \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch public:}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     virtual double Area() = 0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     virtual ~Figure() \{\};}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \};}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #endif // FIGURE_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch main.cpp}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include "tqueue.h"}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch int main(int argc, char** argv) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     TQueue queue;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point a_1(1.0, 1.0);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point b_1(1.0, 2.0);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point c_1(2.0, 2.0);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point d_1(2.0, 1.0);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point a_2(3.0, 1.0);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point b_2(3.0, 3.0);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point c_2(5.0, 3.0);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point d_2(5.0, 1.0);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point a_3(0.0, 0.0);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point b_3(0.0, 4.0);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point c_3(4.0, 4.0);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point d_3(4.0, 0.0);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     queue.Push(Square(a_1, b_1, c_1, d_1));}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     queue.Push(Square(a_2, b_2, c_2, c_2));}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     queue.Push(Square(a_3, b_3, c_3, d_3));}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     std::cout << queue;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Square square;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     square = queue.Pop();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     std::cout << square;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     square = queue.Pop();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     std::cout << square;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     square = queue.Pop();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     std::cout << square;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return 0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch point.cpp}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include "point.h"}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Point::Point() : x_(0.0), y_(0.0) \{\}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Point::Point(double x, double y) : x_(x), y_(y) \{\}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Point::Point(std::istream& is) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     is >> x_ >> y_;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch double Point::dist(Point& other) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     double dx = (other.x_ - x_);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     double dy = (other.y_ - y_);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return std::sqrt(dx * dx + dy * dy);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch std::istream& operator>>(std::istream& is, Point& p) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     is >> p.x_ >> p.y_;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return is;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch std::ostream& operator<<(std::ostream& os, Point& p) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     os << "(" << p.x_ << ", " << p.y_ << ")";}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return os;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Point operator+(Point x, Point y) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return Point(x.x_ + y.x_, x.y_ + y.y_);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch point.h}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #ifndef POINT_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #define POINT_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include <iostream>}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include <ostream>}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include <vector>}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include <cmath>}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch class Point \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch public:}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point(std::istream& is);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Point(double x, double y);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     double dist(Point& other);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     friend std::istream& operator>>(std::istream& is, Point& p);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     friend std::ostream& operator<<(std::ostream& os, Point& p);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     friend Point operator+(Point a, Point b);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     friend class Square;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     friend class Rectangle;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     friend class Trapezoid;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch private:}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     double x_;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     double y_;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \};}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #endif // POINT_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch square.cpp}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include "square.h"}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Square::Square() : point_a(0.0, 0.0), point_b(0.0, 0.0), point_c(0.0, 0.0), point_d(0.0, 0.0) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab std::cout << "Default square is created" << std::endl;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Square::Square(Point a, Point b, Point c, Point d) : point_a(a), point_b(b), point_c(c), point_d(d) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab std::cout << "Square is created with vertices: ";}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab std::cout << point_a << ", ";}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab std::cout << point_b << ", ";}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab std::cout << point_c << ", ";}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab std::cout << point_d << std::endl;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Square::Square(const Square& other) : Square(other.point_a, other.point_b, other.point_c, other.point_d) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab std::cout << "Square's copy is created" << std::endl;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch double Square::Area() \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab double side = 0.0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab double fig_square = 0.0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab side = point_b.dist(point_a);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab fig_square = side * side;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab return fig_square;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch std::istream& operator>>(std::istream& is, Square& obj) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab is >> obj.point_a >> obj.point_b >> obj.point_c >> obj.point_d;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab return is;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch std::ostream& operator<<(std::ostream& os, const Square& obj) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Point a(obj.point_a);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Point b(obj.point_b);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Point c(obj.point_c);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Point d(obj.point_d);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab os << "Point_a: " << a << ", ";}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab os << "Point_b: " << b << ", ";}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab os << "Point_c: " << c << ", ";}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab os << "Point_d: " << d << std::endl;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab return os;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Square& Square::operator++() \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab point_a.x_ += 1.0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab point_a.y_ += 1.0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab point_b.x_ += 1.0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab point_b.y_ += 1.0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab point_c.x_ += 1.0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab point_c.y_ += 1.0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab point_d.x_ += 1.0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab point_d.y_ += 1.0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab return *this;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Square operator+(const Square& left, const Square& right) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab return Square(left.point_a + right.point_a, left.point_b + right.point_b, left.point_c + right.point_c, left.point_d + right.point_d);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Square& Square::operator=(const Square& other) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab if (this == &other) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab return *this;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab else \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab point_a = other.point_a;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab point_b = other.point_b;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab point_c = other.point_c;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab point_d = other.point_d;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab std::cout << "Square is copied" << std::endl;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab return *this;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Square::~Square() \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab std::cout << "Square is deleted" << std::endl;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch square.h}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #ifndef SQUARE_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #define SQUARE_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include "figure.h"}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch class Square : public Figure \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch public:}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Square();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Square(Point a, Point b, Point c, Point d);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Square(const Square& other);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab double Area();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab friend std::istream& operator>>(std::istream& is, Square& obj);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab friend std::ostream& operator<<(std::ostream& os, const Square& obj);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Square& operator++();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab friend Square operator+(const Square& left, const Square& right);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Square& operator=(const Square& other);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab virtual ~Square();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch private:}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Point point_a; // lower left corner, then clockwise}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Point point_b;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Point point_c;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Point point_d;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \};}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #endif // SQUARE_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch tqueue.cpp}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include "tqueue.h"}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch TQueue::TQueue() : head(nullptr), tail(nullptr), num_of_elem(0) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch TQueue::TQueue(const TQueue& other) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     head = other.head;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch std::ostream& operator<<(std::ostream& os, const TQueue& queue) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     TQueueItem* item = queue.head;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     while (item != nullptr) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         os << *item << " => ";}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         item = item->GetNext();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return os;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch void TQueue::Push(Square&& square) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     auto* item = new TQueueItem(square);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     if (item != nullptr) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         if (this->Empty()) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch             this->head = this->tail = item;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         else if (num_of_elem == 1) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch             tail = item;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch             head->SetNext(item);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         else \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch             this->tail->SetNext(item);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch             tail = item;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         num_of_elem++;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Square TQueue::Pop() \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Square result;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     if (head != nullptr) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         TQueueItem* item = head;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         head = head->GetNext();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         result = item->GetSquare();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         item->SetNext(nullptr);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         delete item;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return result;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch const Square& TQueue::Top() \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     if (head) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch         return head->GetSquare();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch bool TQueue::Empty() \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return head == nullptr;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch size_t TQueue::Length() \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return num_of_elem;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch void TQueue::Clear() \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     delete head;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     head = tail = nullptr;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     num_of_elem = 0;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch TQueue::~TQueue() \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     delete head;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch tqueue.h}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #ifndef TQUEUE_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #define TQUEUE_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include "tqueue_item.h"}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch class TQueue \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch public:}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     TQueue();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     TQueue(const TQueue& other);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     void Push(Square&& square);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Square Pop();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     const Square& Top();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     bool Empty();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     size_t Length();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     friend std::ostream& operator<<(std::ostream& os, const TQueue& queue);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     void Clear();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     virtual ~TQueue();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch private:}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     TQueueItem* head;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     TQueueItem* tail;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     size_t num_of_elem;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \};}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #endif // TQUEUE_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch tqueue_item.cpp}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include "tqueue_item.h"}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch TQueueItem::TQueueItem(const Square& square) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     this->square = square;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     this->next = nullptr;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     std::cout << "Queue item is created" << std::endl;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch TQueueItem::TQueueItem(const TQueueItem& other) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     this->square = other.square;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     this->next = other.next;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     std::cout << "Queue item is copied" << std::endl;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch TQueueItem* TQueueItem::SetNext(TQueueItem* next) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     TQueueItem* prev = this->next;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     this->next = next;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return prev;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch TQueueItem* TQueueItem::GetNext() \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return this->next;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch Square TQueueItem::GetSquare() const \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return this->square;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch std::ostream& operator<<(std::ostream& os, const TQueueItem& obj) \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     os << "Item: " << obj.square << std::endl;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     return os;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch TQueueItem::~TQueueItem() \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     delete next;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     std::cout << "The queue item is deleted" << std::endl;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch tqueue_item.h}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #ifndef TQUEUE_ITEM_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #define TQUEUE_ITEM_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #include "square.h"}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch class TQueueItem \{}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch public:}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     TQueueItem(const Square& square);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     TQueueItem(const TQueueItem& other);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     TQueueItem* SetNext(TQueueItem* next);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     TQueueItem* GetNext();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Square GetSquare() const;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     friend std::ostream& operator<<(std::ostream& os, const TQueueItem& obj);}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     virtual ~TQueueItem();}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch private:}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     Square square;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch     TQueueItem* next;}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch \};}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\abinodiroverride\ltrch #endif // TQUEUE_ITEM_H}{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f0\fs28\b\lang1033{\*\listtag0}\par}}
